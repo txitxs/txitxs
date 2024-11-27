@@ -1,4 +1,4 @@
-#<h1 align="center">Greetings, Fellow Detective of Code! 🕵️‍♂️💻</h1>
+<h1 align="center">Greetings, Fellow Detective of Code! 🕵️‍♂️💻</h1>
 
 ###
 
