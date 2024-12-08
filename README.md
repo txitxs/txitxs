@@ -19,9 +19,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="uipath logo"  />
+  <img src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1720244493" height="40" alt="UiPath logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="powerautomate logo"  />
+  <img src="https://powerwiki.net/images/4/48/Powerautomate.svg" height="40" alt="Power Automate logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
